@@ -47,11 +47,15 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\Problem100.cs" />
+    <Compile Include="Solutions\Problem101.cs" />
     <Compile Include="Solutions\Problem104.cs" />
+    <Compile Include="Solutions\Problem110.cs" />
     <Compile Include="Solutions\Problem125.cs" />
+    <Compile Include="Solutions\Problem165.cs" />
     <Compile Include="Solutions\Problem169.cs" />
     <Compile Include="Solutions\Problem191.cs" />
     <Compile Include="Solutions\Problem20.cs" />
+    <Compile Include="Solutions\Problem206.cs" />
     <Compile Include="Solutions\Problem217.cs" />
     <Compile Include="Solutions\Problem225.cs" />
     <Compile Include="Solutions\Problem226.cs" />
@@ -59,10 +63,10 @@
     <Compile Include="Solutions\Problem237.cs" />
     <Compile Include="Solutions\Problem242.cs" />
     <Compile Include="Solutions\Problem258.cs" />
+    <Compile Include="Solutions\Problem263.cs" />
     <Compile Include="Solutions\Problem58.cs" />
     <Compile Include="Solutions\Problem7.cs" />
     <Compile Include="Solutions\Problem9.cs" />
-    <Compile Include="Solutions\test.cs" />
     <Compile Include="TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>
