@@ -1,0 +1,6 @@
+C:\LocalVsProjects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe.config
+C:\LocalVsProjects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.csprojResolveAssemblyReference.cache
+C:\LocalVsProjects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe
+C:\LocalVsProjects\LeetCodeSolutions\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.pdb
+C:\LocalVsProjects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.exe
+C:\LocalVsProjects\LeetCodeSolutions\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.pdb
