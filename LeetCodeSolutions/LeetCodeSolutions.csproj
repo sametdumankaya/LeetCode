@@ -51,6 +51,7 @@
     <Compile Include="Solutions\Problem104.cs" />
     <Compile Include="Solutions\Problem110.cs" />
     <Compile Include="Solutions\Problem125.cs" />
+    <Compile Include="Solutions\Problem136.cs" />
     <Compile Include="Solutions\Problem165.cs" />
     <Compile Include="Solutions\Problem169.cs" />
     <Compile Include="Solutions\Problem191.cs" />
@@ -64,8 +65,12 @@
     <Compile Include="Solutions\Problem242.cs" />
     <Compile Include="Solutions\Problem258.cs" />
     <Compile Include="Solutions\Problem263.cs" />
+    <Compile Include="Solutions\Problem268.cs" />
+    <Compile Include="Solutions\Problem27.cs" />
+    <Compile Include="Solutions\Problem35.cs" />
     <Compile Include="Solutions\Problem58.cs" />
     <Compile Include="Solutions\Problem7.cs" />
+    <Compile Include="Solutions\Problem83.cs" />
     <Compile Include="Solutions\Problem9.cs" />
     <Compile Include="TreeNode.cs" />
   </ItemGroup>
