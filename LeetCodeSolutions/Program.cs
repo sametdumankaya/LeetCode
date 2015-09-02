@@ -11,11 +11,7 @@ namespace LeetCodeSolutions
     {
         static void Main(string[] args)
         {  
-            string str = "    benim  adım       samet   dumankaya              ";
 
-            Console.WriteLine(new Problem151().ReverseWords(str));
-
-            
 
             Console.ReadLine();
         }
